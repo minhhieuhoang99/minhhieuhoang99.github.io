@@ -1,0 +1,18 @@
+# Site settings
+title: Hiếu Hoàng !
+description: Hiếu Hoàng !
+baseurl: "minhhieuhoang99.github.io"
+url: "minhhieuhoang99.github.io"
+
+# User settings
+username: Hiếu Hoàng !
+user_description: Website deploy code của Hiếu Hoàng
+
+user_title: Software Developer
+email: minhhieuhoang99@gmail.com
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
